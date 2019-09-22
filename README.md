@@ -1,8 +1,8 @@
-# Your Project's Name
+# personal-web-site
 
-One or two paragraphs providing an overview of your project.
+My personal web site.
 
-Essentially, this part is your sales pitch.
+Every web developer should have personal web site. Here is mine. It aims to present my interests, portafolio, skills and give an option to contact me. 
  
 ## UX
  
