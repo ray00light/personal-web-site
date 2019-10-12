@@ -16,7 +16,7 @@ std::string exec(const char* cmd) {
         result += buffer.data();
         // what to do after receive data
         //std::cout << buffer.data();
-        system("git add /home/ubuntu/environment.");
+        system("git add /home/ubuntu/environment/.");
         system("git status");
         //std::cout << "git add . done!";
         std::string tmp = buffer.data();
