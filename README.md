@@ -34,7 +34,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-
+- [C++]
+    - This project contain autoCommit program coded in c++.
 
 ## Testing
 
