@@ -121,7 +121,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
-- I received inspiration for this project from http://www.garysheng.com/
+- I received inspiration from this website http://www.garysheng.com/
 
 -------------------------------------------------------------------------------- 
 - I received inspiration for this project from X
