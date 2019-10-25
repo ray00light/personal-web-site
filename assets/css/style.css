@@ -2,4 +2,5 @@
 
 #section1 {
     background-image: url(../images/me.jpg);
+    background-repeat: no-repeat;
 }
