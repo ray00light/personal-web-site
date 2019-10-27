@@ -36,6 +36,7 @@ body{
     color:inherit;
     margin:auto;
     width: 20%;
+    font-size: 3.5vw;
 }
 
 @media screen and (orientation: landscape)
