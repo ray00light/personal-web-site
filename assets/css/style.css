@@ -9,12 +9,11 @@
 
 @media screen and (orientation: landscape)
 {
-    #section1 { background-image:url(../images/me_landscape.jpg); }
+    #section1 { background-image:url(../images/me_landscape.jpg); 
+        background-position: top left;
+    }
 }
 @media screen and (orientation: portrait)
 {
-    #section1 { background-image:url(../images/me_portrait.jpg);
-                background-position: top left;
-        
-    }
+    #section1 { background-image:url(../images/me_portrait.jpg);}
 }
