@@ -21,6 +21,10 @@ body{
     font-style: italic;
 }
 
+#btn-down{
+    color:inherit;
+}
+
 
 @media screen and (orientation: landscape)
 {
