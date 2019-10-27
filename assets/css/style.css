@@ -38,7 +38,7 @@ body{
         background-position: bottom right;
     }
     
-    #section1>div{
+    #greeting{
         margin:auto;
         margin-right: 50%;
         padding-top: 21%;
@@ -51,7 +51,7 @@ body{
         background-position: bottom left;
     }
     
-    #section1>div{
+    #greeting{
         margin: auto;
         padding-top: 90%;
     }
