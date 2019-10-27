@@ -36,7 +36,10 @@ body{
 }
 @media screen and (orientation: portrait)
 {
-    #section1 { background-image:url(../images/me_portrait.jpg);}
+    #section1 { 
+        background-image:url(../images/me_portrait.jpg);
+        background-position: bottom left;
+    }
     
     #section1>div{
         margin: auto;
