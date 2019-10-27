@@ -39,6 +39,7 @@ body{
     }
     
     #section1>div{
+        margin:auto;
         margin-right: 50%;
         padding-top: 21%;
     }
