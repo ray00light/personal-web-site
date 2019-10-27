@@ -6,3 +6,12 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+@media screen and (orientation: portrait)
+{
+    #sction1 { background-image:url(../images/me_portrait.jpg); }
+}
+@media screen and (orientation: landscape)
+{
+    #section1 { background-image:url(../images/me_landscape.png); }
+}
