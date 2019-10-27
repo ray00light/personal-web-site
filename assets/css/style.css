@@ -16,6 +16,13 @@ body{
     text-align: center;
 }
 
+#greeting-text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 
 
 #section1>div>h4{
