@@ -16,7 +16,6 @@ body{
     text-align: center;
 }
 
-
 #div-greeting>h4{
     font-style: italic;
 }
@@ -25,7 +24,7 @@ body{
     display: block;
 }
 
-#div-btn-down>botton{
+#btn-down{
     color:white;
     margin: auto;
     width: 20%;
