@@ -11,12 +11,7 @@ body{
     color: white;
 }
 
-#section1>div{
-    margin:auto;
-    width: 90%;
-    text-align: center;
-    padding: 93% 0;
-}
+
 
 #section1>div>h4{
     font-style: italic;
@@ -29,8 +24,21 @@ body{
         background-image:url(../images/me_landscape.jpg); 
         background-position: top right;
     }
+    
+    #section1>div{
+        margin:auto;
+        width: 90%;
+        text-align: center;
+        padding: 93% 0;
+    }
 }
 @media screen and (orientation: portrait)
 {
     #section1 { background-image:url(../images/me_portrait.jpg);}
+    #section1>div{
+        margin:auto;
+        width: 90%;
+        text-align: center;
+        padding: 93% 0;
+    }
 }
