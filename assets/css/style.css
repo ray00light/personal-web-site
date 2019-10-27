@@ -31,7 +31,6 @@ body{
     
     #section1>div{
         margin:auto;
-        width: 90%;
         padding: 93% 0;
     }
 }
@@ -40,7 +39,6 @@ body{
     #section1 { background-image:url(../images/me_portrait.jpg);}
     #section1>div{
         margin:auto;
-        width: 90%;
         padding: 93% 0;
     }
 }
