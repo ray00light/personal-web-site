@@ -11,6 +11,10 @@ body{
     color: white;
 }
 
+#section1>div{
+    text-align: center;
+}
+
 
 
 #section1>div>h4{
@@ -28,7 +32,6 @@ body{
     #section1>div{
         margin:auto;
         width: 90%;
-        text-align: center;
         padding: 93% 0;
     }
 }
@@ -38,7 +41,6 @@ body{
     #section1>div{
         margin:auto;
         width: 90%;
-        text-align: center;
         padding: 93% 0;
     }
 }
