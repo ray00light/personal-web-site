@@ -26,7 +26,7 @@ body{
 {
     #section1 { 
         background-image:url(../images/me_landscape.jpg); 
-        background-position: top right;
+        background-position: bottom right;
     }
     
     #section1>div{
