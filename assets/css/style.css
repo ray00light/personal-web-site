@@ -29,12 +29,7 @@ body{
     width: 10%;
 }
 
-#section1 { 
-        background-image:url(../images/me_portrait.jpg);
-        background-position: bottom left;
-    }
 
-/*
 @media screen and (orientation: landscape)
 {
     #section1 { 
@@ -57,4 +52,3 @@ body{
         margin: auto;
     }
 }
-*/
