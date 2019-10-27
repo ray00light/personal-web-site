@@ -11,10 +11,9 @@ body{
     color: white;
 }
 
-#section1>div{
+#greeting{
     display: block;
     text-align: center;
-    
 }
 
 
