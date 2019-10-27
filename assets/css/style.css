@@ -8,6 +8,7 @@ body{
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+    color: white;
 }
 
 #section1>div{
@@ -15,7 +16,6 @@ body{
     width: 90%;
     text-align: center;
     padding: 93% 0;
-    color: white;
 }
 
 #section1>div>h4{
