@@ -11,23 +11,22 @@ body{
     color: white;
 }
 
-#greeting{
+#div-greeting{
     display: block;
     text-align: center;
 }
 
 
-#greeting>h4{
+#div-greeting>h4{
     font-style: italic;
 }
 
-#btn-down{
+#div-btn-down{
     color:inherit;
     margin: auto;
     display: block;
     width: 20%;
 }
-
 
 @media screen and (orientation: landscape)
 {
@@ -36,7 +35,7 @@ body{
         background-position: bottom right;
     }
     
-    #greeting{
+    #div-greeting{
         margin:auto;
         margin-right: 50%;
         padding-top: 21%;
@@ -49,7 +48,7 @@ body{
         background-position: bottom left;
     }
     
-    #greeting{
+    #div-greeting{
         margin: auto;
         padding-top: 90%;
     }
