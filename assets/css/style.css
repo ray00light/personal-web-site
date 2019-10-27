@@ -9,7 +9,7 @@
 
 @media screen and (orientation: portrait)
 {
-    #sction1 { background-image:url(../images/me_portrait.jpg); }
+    #section1 { background-image:url(../images/me_portrait.jpg); }
 }
 @media screen and (orientation: landscape)
 {
