@@ -2,14 +2,18 @@
 
 #section1 {
     height: 100vh;
-    /*background-image: url(../images/me_landscape.png);*/
     background-size: cover;
     background-repeat: no-repeat;
 }
 
+#section1>h2,h4{
+    text-align: center;
+}
+
 @media screen and (orientation: landscape)
 {
-    #section1 { background-image:url(../images/me_landscape.jpg); 
+    #section1 { 
+        background-image:url(../images/me_landscape.jpg); 
         background-position: top right;
     }
 }
