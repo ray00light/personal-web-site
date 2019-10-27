@@ -11,7 +11,9 @@
     width: 90%;
     text-align: center;
     padding: 93% 0;
+    color: white;
 }
+
 
 @media screen and (orientation: landscape)
 {
