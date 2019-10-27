@@ -38,7 +38,6 @@ body{
 {
     #section1 { background-image:url(../images/me_portrait.jpg);}
     #section1>div{
-        margin:auto;
         padding: 93% 0;
     }
 }
