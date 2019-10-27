@@ -30,8 +30,8 @@ body{
     }
     
     #section1>div{
-        margin-right: 40%;
-        padding: 40% 0;
+        margin-right: 50%;
+        padding: 25% 0;
     }
 }
 @media screen and (orientation: portrait)
