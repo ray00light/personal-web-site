@@ -23,8 +23,10 @@ body{
 
 #btn-down{
     color:inherit;
-    margin: auto;
-    width: 10%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 }
 
 
