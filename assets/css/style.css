@@ -39,7 +39,6 @@ body{
     
     #section1>div{
         margin-right: 50%;
-        padding: 37vh 0;
     }
 }
 @media screen and (orientation: portrait)
@@ -51,6 +50,5 @@ body{
     
     #section1>div{
         margin: auto;
-        padding: 50vh 0;
     }
 }
