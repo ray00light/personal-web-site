@@ -10,7 +10,7 @@
 @media screen and (orientation: landscape)
 {
     #section1 { background-image:url(../images/me_landscape.jpg); 
-        background-position: top left;
+        background-position: top right;
     }
 }
 @media screen and (orientation: portrait)
