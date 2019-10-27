@@ -8,11 +8,7 @@
 
 #section1>div{
     display:inline;
-}
-
-#section1>h4,h2{
     text-align: center;
-    vertical-align: middle;
 }
 
 @media screen and (orientation: landscape)
