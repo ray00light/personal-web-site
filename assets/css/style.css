@@ -37,7 +37,8 @@ body{
 @media screen and (orientation: portrait)
 {
     #section1 { background-image:url(../images/me_portrait.jpg);}
+    
     #section1>div{
-        padding: 93% 0;
+        padding: 80% 0;
     }
 }
