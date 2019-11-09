@@ -6,13 +6,11 @@ body{
 
 #div-btn-menu{
     float : left;
-    
-    
-    
+    text-align: left;
 }
 
 #btn-menu {
-    text-align: left;
+    
     color: white;
 }
 
