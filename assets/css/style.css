@@ -73,6 +73,9 @@ body{
     #btn-menu {
         font-size: 5vh;
         color: white;
+        position: fixed;
+        top: 0;
+        right: 0;
     }
     
     #section1 { 
@@ -98,6 +101,11 @@ body{
     #btn-down{
         padding-top: 5vh;
         font-size: 5vh;
+    }
+    
+    #section2{
+        height: 100px;
+        width: 100%;
     }
     
 }
