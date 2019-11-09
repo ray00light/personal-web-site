@@ -41,7 +41,7 @@ body{
 
 #btn-down{
     color:inherit;
-    font-size: 10vh;
+    
 }
 
 @media screen and (orientation: landscape)
@@ -67,6 +67,7 @@ body{
     
     #btn-down{
         padding-top: 5vh;
+        font-size: 10vh;
     }
     
 }
@@ -91,5 +92,6 @@ body{
     
      #btn-down{
         padding-top: 10vh;
+        font-size: 10vw;
     }
 }
