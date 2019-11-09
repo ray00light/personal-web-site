@@ -36,6 +36,11 @@ body{
 }
 
 #div-btn-down{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-flow: column;
     /*
     display: block;
     margin:auto;
