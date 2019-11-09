@@ -9,8 +9,6 @@ body{
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
-    
-    
 }
 
 #div-greeting{
@@ -41,7 +39,6 @@ body{
 
 #btn-down{
     color:inherit;
-    
 }
 
 
@@ -59,7 +56,7 @@ body{
      animation-iteration-count: 3;
 }
 
-/**************MEDIA QUERIES*********************************/
+/***************MEDIA QUERIES*********************************/
 
 @media screen and (orientation: landscape)
 {
