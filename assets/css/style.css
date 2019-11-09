@@ -70,6 +70,11 @@ body{
 
 @media screen and (orientation: landscape)
 {
+    #btn-menu {
+        font-size: 3vh;
+        color: white;
+    }
+    
     #section1 { 
         background-image:url(../images/me_landscape.jpg); 
         background-position: bottom right;
@@ -98,6 +103,11 @@ body{
 }
 @media screen and (orientation: portrait)
 {
+    #btn-menu {
+        font-size: 3vw;
+        color: white;
+    }
+    
     #section1 { 
         background-image:url(../images/me_portrait.jpg);
         background-position: bottom left;
