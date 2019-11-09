@@ -61,12 +61,18 @@ body{
  /*100% {*/
  /*   transform: scale(1,1) translate(0px, 0px);*/
  /* }*/
- from {
-        bottom: 15vh;
-    }
-    to { 
-        bottom: 10vh;
-    }
+ /*from {*/
+ /*       bottom: 15vh;*/
+ /*   }*/
+ /*   to { */
+ /*       bottom: 10vh;*/
+ /*   }*/
+     0%,100%{
+         padding-top:0; 
+     }
+     50%{
+         padding-top: 5vh;
+     }
 }
 
 .bounce {
