@@ -55,7 +55,7 @@ body{
         align-items: center;
         justify-content: center;
         text-align: center;
-        flex-direction: column;
+        flex-flow: column;
         padding-top: 20%;
     }
     
@@ -84,7 +84,7 @@ body{
         align-items: center;
         justify-content: center;
         text-align: center;
-        flex-direction: column;
+        flex-flow: column;
         padding-top: 60%;
     }
     
