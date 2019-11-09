@@ -5,12 +5,11 @@ body{
 }
 
 #div-btn-menu{
-    float : left;
-    text-align: left;
+    float : right;
 }
 
 #btn-menu {
-    
+    padding: 3vh;
     color: white;
 }
 
