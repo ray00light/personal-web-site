@@ -71,7 +71,7 @@ body{
 @media screen and (orientation: landscape)
 {
     #btn-menu {
-        font-size: 4vh;
+        font-size: 5vh;
         color: white;
     }
     
@@ -104,7 +104,7 @@ body{
 @media screen and (orientation: portrait)
 {
     #btn-menu {
-        font-size: 4vw;
+        font-size: 5vw;
         color: white;
     }
     
