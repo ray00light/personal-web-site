@@ -10,6 +10,11 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-flow: column;
 }
 
 #div-greeting{
@@ -37,10 +42,12 @@ body{
 }
 
 #btn-down{
+    /*
     display: block;
     color:inherit;
     margin:auto;
     width: 20%;
+    */
     font-size: 5vw;
 }
 
@@ -54,11 +61,13 @@ body{
     #div-greeting{
         margin-right: 50%;
         margin-left: 5%;
+        /*
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
         flex-flow: column;
+        */
         padding-top: 10vh;
     }
     
@@ -71,11 +80,13 @@ body{
     }
     
     #div-btn-down{
+        /*
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
         flex-direction: column;
+        */
         padding-top: 5vh;
     }
     
@@ -88,11 +99,13 @@ body{
     }
     
     #div-greeting{
+        /*
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
         flex-flow: column;
+        */
         padding-top: 30vh;
     }
     
@@ -105,11 +118,13 @@ body{
     }
     
      #div-btn-down{
+        /*
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
         flex-flow: column;
+        */
         padding-top: 10vh;
     }
 }
