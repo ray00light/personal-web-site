@@ -62,11 +62,11 @@ body{
     }
     
     #div-greeting>h4{
-        font-size: 3vw;
+        font-size: 20vh;
     }
 
     #div-greeting>h2{
-        font-size: 4vw;
+        font-size: 30vh;
     }
     
     #div-btn-down{
