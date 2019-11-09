@@ -92,7 +92,7 @@ body{
         justify-content: center;
         text-align: center;
         flex-flow: column;
-        padding-top: 60%;
+        padding-top: 30vh;
     }
     
     #div-greeting>h4{
@@ -109,6 +109,6 @@ body{
         justify-content: center;
         text-align: center;
         flex-direction: column;
-        padding-top: 20%;
+        padding-top: 10vh;
     }
 }
