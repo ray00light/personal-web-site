@@ -20,16 +20,10 @@ body{
     text-align: center;
     flex-flow: column;
     color: white;
-    /*
-    display: block;
-    text-align: center;
-    margin:auto;
-    */
 }
 
 #div-greeting>h4{
     font-style: italic;
-    /*font-size: 5vw;*/
 }
 
 #div-greeting>h2{
@@ -43,19 +37,9 @@ body{
     text-align: center;
     flex-flow: column;
     color: white;
-    /*
-    display: block;
-    margin:auto;
-    */
 }
 
 #btn-down{
-    /*
-    display: block;
-    color:inherit;
-    margin:auto;
-    width: 20%;
-    */
     font-size: 5vw;
     color:inherit;
 }
@@ -70,13 +54,6 @@ body{
     #div-greeting{
         margin-right: 50%;
         margin-left: 5%;
-        /*
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        flex-flow: column;
-        */
         padding-top: 10vh;
     }
     
@@ -89,13 +66,6 @@ body{
     }
     
     #div-btn-down{
-        /*
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        flex-direction: column;
-        */
         padding-top: 5vh;
     }
     
@@ -108,13 +78,6 @@ body{
     }
     
     #div-greeting{
-        /*
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        flex-flow: column;
-        */
         padding-top: 30vh;
     }
     
@@ -127,13 +90,6 @@ body{
     }
     
      #div-btn-down{
-        /*
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        flex-flow: column;
-        */
         padding-top: 10vh;
     }
 }
