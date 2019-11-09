@@ -4,6 +4,16 @@ body{
     font-family:Arimo;
 }
 
+#div-btn-menu{
+    
+    
+}
+
+#btn-menu {
+    float : left;
+    color: white;
+}
+
 
 #section1 {
     height: 100vh;
