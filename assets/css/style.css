@@ -80,6 +80,7 @@ body{
         justify-content: center;
         text-align: center;
         flex-direction: column;
+        padding-top: 60%;
     }
     
     #div-greeting>h4{
