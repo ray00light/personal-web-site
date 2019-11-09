@@ -79,7 +79,7 @@ body{
     }
     
     #div-greeting{
-        padding-top: 30vh;
+        padding-top: 30vw;
     }
     
     #div-greeting>h4{
@@ -91,7 +91,7 @@ body{
     }
     
      #btn-down{
-        padding-top: 10vh;
+        padding-top: 10vw;
         font-size: 10vw;
     }
 }
