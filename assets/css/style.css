@@ -55,7 +55,8 @@ body{
 }
 
 .bounce {
-     -webkit-animation: bounce 1s linear infinite;
+     -webkit-animation: bounce 1s linear;
+     animation-iteration-count: 3;
 }
 
 /**************MEDIA QUERIES*********************************/
