@@ -10,14 +10,15 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    
+}
+
+#div-greeting{
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     flex-flow: column;
-}
-
-#div-greeting{
     /*
     display: block;
     text-align: center;
