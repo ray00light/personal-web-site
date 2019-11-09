@@ -53,6 +53,7 @@ body{
     
     #div-greeting{
         margin-right: 50%;
+        margin-left: 5%;
         display: flex;
         align-items: center;
         justify-content: center;
