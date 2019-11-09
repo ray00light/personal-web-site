@@ -46,27 +46,6 @@ body{
 
 
 @-webkit-keyframes bounce {
- /*       0% {*/
- /*   transform: scale(1,1) translate(0px, 0px);*/
- /* }*/
-  
- /* 30%{*/
- /*   transform: scale(1,0.8) translate(0px, 10px); */
- /* }*/
-
- /* 75%{*/
- /*   transform: scale(1,1.1) translate(0px, -25px); */
- /* }*/
-  
- /*100% {*/
- /*   transform: scale(1,1) translate(0px, 0px);*/
- /* }*/
- /*from {*/
- /*       bottom: 15vh;*/
- /*   }*/
- /*   to { */
- /*       bottom: 10vh;*/
- /*   }*/
      0%,100%{
          padding-top:0; 
      }
@@ -76,7 +55,7 @@ body{
 }
 
 .bounce {
-     -webkit-animation: bounce 0.75s infinite;
+     -webkit-animation: bounce 1s linear ninfinite;
 }
 
 /**************MEDIA QUERIES*********************************/
