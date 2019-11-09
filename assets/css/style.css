@@ -40,7 +40,6 @@ body{
 }
 
 #btn-down{
-    font-size: xx-large;
     color:inherit;
 }
 
@@ -66,6 +65,7 @@ body{
     }
     
     #div-btn-down{
+        font-size: 5vh;
         padding-top: 5vh;
     }
     
@@ -90,6 +90,7 @@ body{
     }
     
      #div-btn-down{
+        font-size: 5vw;
         padding-top: 10vh;
     }
 }
