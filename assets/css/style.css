@@ -7,10 +7,12 @@ body{
 #div-btn-menu{
     float : left;
     
+    
+    
 }
 
 #btn-menu {
-    
+    text-align: left;
     color: white;
 }
 
