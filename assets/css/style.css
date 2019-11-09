@@ -55,7 +55,7 @@ body{
 }
 
 .bounce {
-     -webkit-animation: bounce 1s linear ninfinite;
+     -webkit-animation: bounce 1s ninfinite;
 }
 
 /**************MEDIA QUERIES*********************************/
