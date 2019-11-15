@@ -53,6 +53,27 @@ body{
 
 #section2{
     height: 100vh;
+    background-color: white;
+}
+
+#section3{
+    height: 100vh;
+    background-color: rgb(240, 240, 240);
+}
+
+#section4{
+    height: 100vh;
+    background-color: white;
+}
+
+#section5{
+    height: 100vh;
+    background-color: rgb(240, 240, 240);
+}
+
+#footer1{
+    height: 10vh;
+    background-color: white;
 }
 
 
