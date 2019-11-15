@@ -17,13 +17,13 @@ body{
 }
 
 #div-dropdown-menu{
-    display: grid;
+    display: none;
 }
 
 .dropdown-menu-item{
     text-decoration: none;
     color:white;
-    padding: 1vh 2vh;
+    padding: 0.4rem 0.75rem;
 }
 
 #section1 {
