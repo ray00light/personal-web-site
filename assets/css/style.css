@@ -22,6 +22,7 @@ body{
 
 .dropdown-menu-item{
     text-decoration: none;
+    font-size: 2vh;
     color:white;
     padding: 0.4rem 0.75rem;
 }
