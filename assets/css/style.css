@@ -99,7 +99,7 @@ body{
     #btn-menu {
         font-size: 5vh;
         color: white;
-        position: fixed;
+        /*position: fixed;*/
         top: 0;
         right: 0;
     }
