@@ -20,6 +20,9 @@ body{
     display: block;
 }
 
+#dropdown-menu-item{
+    padding-right: 3vh;
+}
 
 #section1 {
     height: 100vh;
