@@ -16,6 +16,10 @@ body{
     color: white;
 }
 
+#div-dropdown-menu{
+    display: block;
+}
+
 
 #section1 {
     height: 100vh;
