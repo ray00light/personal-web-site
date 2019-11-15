@@ -5,8 +5,10 @@ body{
 }
 
 #div-btn-menu{
-    float : right;
-    padding-right: 3vh;
+    position : absolute;
+    top: 3vh;
+    right: 3vh;
+    /*padding-right: 3vh;*/
 }
 
 #btn-menu {
