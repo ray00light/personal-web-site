@@ -17,7 +17,7 @@ body{
 }
 
 #div-dropdown-menu{
-    display: block;
+    display: grid;
 }
 
 #dropdown-menu-item{
