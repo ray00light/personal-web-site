@@ -51,6 +51,10 @@ body{
     color:inherit;
 }
 
+#section2{
+    height: 100vh;
+}
+
 
 @-webkit-keyframes bounce {
      0%,100%{
