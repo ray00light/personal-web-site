@@ -5,6 +5,7 @@ body{
 }
 
 #div-btn-menu{
+    display: block;
     top: 0vh;
     right: 2.5vh;
 }
