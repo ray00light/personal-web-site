@@ -17,7 +17,8 @@ body{
 }
 
 #div-dropdown-menu{
-    display: none;
+    display: grid;
+    /*display: none;*/
 }
 
 .dropdown-menu-item{
