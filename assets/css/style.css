@@ -16,11 +16,11 @@ body{
     color: white;
 }
 
-#div-dropdown-menu-1{
+#div-dropdown-menu{
     display: grid;
 }
 
-#dropdown-menu-item{
+.dropdown-menu-item{
     text-decoration: none;
     color:white;
     padding: 1vh 2vh;
