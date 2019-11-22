@@ -13,11 +13,11 @@ body{
     text-align: right;
 }
 
-#div-menu > input + i {
+#div-menu > input + label {
     color:white;
 }
 
-#div-menu > input:checked + i {
+#div-menu > input:checked + label {
     color:red;
 }
 
