@@ -13,12 +13,13 @@ body{
     text-align: right;
 }
 
-#div-menu > input {
+#div-menu > input{
     display: none;
 }
 
 #div-menu > i{
     font-size: 3vh;
+    color:inherit;
 }
 
 
