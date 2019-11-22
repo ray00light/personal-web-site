@@ -4,11 +4,17 @@ body{
     font-family:Arimo;
 }
 
+
+
 #div-btn-menu{
     display: block;
     top: 0vh;
     right: 2.5vh;
     text-align: right;
+}
+
+#div-btn-menu>i{
+    font-size: 3vh;
 }
 
 #btn-menu {
