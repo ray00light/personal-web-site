@@ -6,16 +6,21 @@ body{
 
 
 
-#div-btn-menu{
+#div-menu{
     display: block;
     top: 0vh;
     right: 2.5vh;
     text-align: right;
 }
 
-#div-btn-menu > i{
+#div-menu > input {
+    display: none;
+}
+
+#div-menu > i{
     font-size: 3vh;
 }
+
 
 #btn-menu {
     font-size: 3vh;
