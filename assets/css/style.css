@@ -13,13 +13,23 @@ body{
     text-align: right;
 }
 
+#div-menu > input + i {
+    color:white;
+}
+
+#div-menu > input:checked + i {
+    color:red;
+}
+
+
+
 #div-menu > input{
     display: none;
 }
 
 #div-menu > i{
     font-size: 3vh;
-    color:white;
+    /*color:white;*/
     cursor:pointer;
 }
 
