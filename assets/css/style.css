@@ -213,7 +213,7 @@ body{
     }
     #div-menu > input ~ nav > ul > li > a {
         padding: 2vw 0vw;
-        font-size: 2vw;
+        font-size: 5vh;
     }
     #btn-menu {
         font-size: 5vh;
