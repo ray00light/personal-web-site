@@ -11,8 +11,8 @@ body{
     top:0vh;
     right: 0vh;
     text-align: right;
-    height: 30vh;
-    width: 30vh;
+    height: 35vh;
+    width: 35vh;
 }
 
 #div-menu > input + label {
@@ -189,8 +189,8 @@ body{
         top: 0vh;
         right: 0vh;
         text-align: right;
-        height: 30vw;
-        width: 30vw;
+        height: 35vw;
+        width: 35vw;
     }
     #div-menu > input + label {
         position: fixed;
