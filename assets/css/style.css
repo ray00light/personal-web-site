@@ -9,6 +9,8 @@ body{
 header{
     height: 90vw;
     width: 100vw;
+    overflow: auto;
+
 }
 
 #div-menu{
