@@ -98,7 +98,7 @@ body{
 #div-menu > input:checked ~ nav > ul {}
 #div-menu > input:checked ~ nav > ul > li {
     opacity: 1;
-    height: 7vw;
+    height: 10vw;
     /*transition-delay: .5s;*/
 }
 #div-menu > input{
