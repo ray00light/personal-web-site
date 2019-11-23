@@ -90,13 +90,15 @@ body{
           transition-delay: 0s;
 }
 #div-menu > input ~ nav > ul > li > a {
-            text-decoration: none;
+        text-decoration: none;
             /*text-transform: uppercase;*/
             /*color: $blackColor;*/
             /*font-weight: 700;*/
             /*font-family: sans-serif;*/
-            display: block;
-            padding: 2vh 3vh;
+        display: block;
+        padding: 2vh 0vh;
+        color: white;
+        font-size: 2vh;
 }
          
 #div-menu > input:checked ~ nav { 
