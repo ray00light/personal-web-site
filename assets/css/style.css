@@ -16,12 +16,12 @@ body{
 }
 
 #div-menu > input + label {
-      position: fixed;
-      top: 40px;
-      right: 40px;
-      height: 20px;
-      width: 15px; 
-      z-index: 5;
+    position: fixed;
+    top: 2vh;
+    right: 2vh;
+    height: 3vh;
+    width: 3vh;
+    z-index: 5;
 }
      
 #div-menu > input + label > span {
@@ -224,6 +224,14 @@ body{
 
 @media screen and (orientation: landscape)
 {
+    #div-menu > input + label {
+        position: fixed;
+        top: 2vw;
+        right: 2vw;
+        height: 3vw;
+        width: 3vw;
+        z-index: 5;
+    }
     #btn-menu {
         font-size: 5vh;
         color: white;
