@@ -79,6 +79,7 @@ body{
 }
 #div-menu > input ~ nav > ul > li {
     opacity: 0;
+    height: 0vh;
     transition: .5s;
     transition-delay: 0s;
 }
@@ -96,6 +97,7 @@ body{
 #div-menu > input:checked ~ nav > ul {}
 #div-menu > input:checked ~ nav > ul > li {
     opacity: 1;
+    height: 7vh;
     /*transition-delay: .5s;*/
 }
 #div-menu > input{
