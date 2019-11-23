@@ -62,9 +62,9 @@ body{
 }
 #div-menu > input ~ nav {
     position: fixed;
-    top: 5vw;
-    right: 2vw;
-    width: 30vw;
+    top: 10vw;
+    right: 3vw;
+    width: 70vw;
     height: 30vw;
     z-index: 3;
     transition: .5s;
