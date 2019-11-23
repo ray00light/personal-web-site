@@ -96,7 +96,7 @@ body{
 #div-menu > input:checked ~ nav > ul {}
 #div-menu > input:checked ~ nav > ul > li {
     opacity: 1;
-    transition-delay: .5s;
+    /*transition-delay: .5s;*/
 }
 #div-menu > input{
     display: none;
