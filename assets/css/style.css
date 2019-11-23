@@ -208,6 +208,9 @@ body{
         width: 30vw;
         height: 30vw;
     }
+    #div-menu > input:checked ~ nav > ul > li {
+    height: 7vw;
+    }
     #div-menu > input ~ nav > ul > li > a {
         padding: 2vw 0vw;
         font-size: 2vw;
