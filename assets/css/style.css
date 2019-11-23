@@ -246,6 +246,12 @@ body{
         width: 3vw;
         z-index: 5;
     }
+    #div-menu > input ~ nav {
+        top: 5vw;
+        right: 2vw;
+        width: 30vw;
+        height: 30vw;
+    }
     #btn-menu {
         font-size: 5vh;
         color: white;
