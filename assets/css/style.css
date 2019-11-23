@@ -7,7 +7,9 @@ body{
 /******************************* header menu *****************************/
 
 header{
-    
+    position: fixed;
+    height: 90vw;
+    width: 100vw;
 }
 
 #div-menu{
