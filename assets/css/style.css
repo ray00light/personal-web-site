@@ -114,9 +114,9 @@ body{
 
 
 
-/*#div-menu > input{*/
-/*    display: none;*/
-/*}*/
+#div-menu > input{
+    display: none;
+}
 
 /*#div-menu > i{*/
 /*    font-size: 3vh;*/
