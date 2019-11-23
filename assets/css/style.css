@@ -8,9 +8,11 @@ body{
 
 #div-menu{
     display: block;
-    top: 0vh;
-    right: 2.5vh;
+    top:0vh;
+    right: 0vh;
     text-align: right;
+    height: 30vh;
+    width: 30vh;
 }
 
 #div-menu > input + label {
