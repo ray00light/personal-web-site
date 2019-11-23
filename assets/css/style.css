@@ -11,8 +11,8 @@ body{
     top:0vh;
     right: 0vh;
     text-align: right;
-    height: 35vw;
-    width: 35vw;
+    height: 70vw;
+    width: 50vw;
 }
 
 #div-menu > input + label {
