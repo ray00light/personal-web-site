@@ -14,12 +14,12 @@ body{
 }
 
 #div-menu > input + label {
-      position: fixed;
-      top: 40px;
-      right: 40px;
-      height: 20px;
-      width: 15px; 
-      z-index: 5;
+    position: fixed;
+    top: 2vh;
+    right: 2vh;
+    height: 20px;
+    width: 15px; 
+    z-index: 5;
 }
      
 #div-menu > input + label > span {
