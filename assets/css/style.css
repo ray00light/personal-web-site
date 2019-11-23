@@ -252,6 +252,10 @@ body{
         width: 30vw;
         height: 30vw;
     }
+    #div-menu > input ~ nav > ul > li > a {
+        padding: 2vw 0vw;
+        font-size: 2vw;
+    }
     #btn-menu {
         font-size: 5vh;
         color: white;
