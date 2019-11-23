@@ -17,11 +17,12 @@ body{
 
 #div-menu > input + label {
     position: fixed;
-    top: 2vw;
-    right: 2vw;
-    height: 3vw;
-    width: 3vw;
+    top: 3vw;
+    right: 3vw;
+    height: 6vw;
+    width: 6vw;
     z-index: 5;
+    margin: 0;
 }
      
 #div-menu > input + label > span {
