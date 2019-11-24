@@ -223,7 +223,7 @@ header{
         /*transition: .5s;*/
     }
     #div-menu > input + label > span:first-child {
-    top: 1vw;; 
+    top: 1vw; 
     }
     #div-menu > input + label > span:second-child {
         top: 2.4vw;; 
