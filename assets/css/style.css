@@ -204,12 +204,12 @@ header{
         width: 35vh;
     }
     #div-menu > input + label {
-        position: fixed;
-        top: 2vh;
-        right: 2vh;
-        height: 3vh;
-        width: 3vh;
-        z-index: 5;
+        /*position: fixed;*/
+        /*top: 2vh;*/
+        /*right: 2vh;*/
+        /*height: 3vh;*/
+        /*width: 3vh;*/
+        /*z-index: 5;*/
     }
     #div-menu > input + label > span:first-child {
     top: 1vw;; 
