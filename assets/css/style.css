@@ -42,13 +42,13 @@ header{
     transition: .5s;
 }
 #div-menu > input + label > span:first-child {
-    top: 1vw;; 
+    top: 0.1rem; 
 }
 #div-menu > input + label > span:nth-child(2) {
-    top: 2.4vw;; 
+    top: 0.2rem; 
 }
 #div-menu > input + label > span:last-child {
-    top: 4vw; 
+    top: 0.3rem; 
 }      
     
 #div-menu > label:hover {
