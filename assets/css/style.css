@@ -21,9 +21,9 @@ header{
 }
 
 #div-menu > input + label {
-    /*position: relative;*/
+    position: relative;
     top: 3vw;
-    /*left: 90vw;*/
+    left: 90vw;
     height: 6vw;
     width: 6vw;
     z-index: 5;
