@@ -13,17 +13,17 @@ header{
 }
 
 #div-menu{
-    /*position: relative;*/
+    position: relative;
     /*margin: 0;*/
-    text-align: right;
+    /*text-align: right;*/
     height: 100%;
     /*width: 100%;*/
 }
 
 #div-menu > input + label {
-    position: relative;
+    position: absolute;
     top: 3vw;
-    left: 90vw;
+    right: 3vw;
     height: 6vw;
     width: 6vw;
     z-index: 5;
