@@ -230,7 +230,13 @@ header{
     }
     #div-menu > input + label > span:last-child {
         top: 4vw; 
-    }  
+    }
+    #div-menu > input:checked + label > span:first-child {
+        top:2vh;
+    }
+    #div-menu > input:checked + label > span:last-child {
+        top: 2vh;
+    }
     #div-menu > input ~ nav {
         top: 5vh;
         right: 2vh;
