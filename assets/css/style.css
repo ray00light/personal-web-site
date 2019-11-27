@@ -43,7 +43,7 @@ header{
     top: 0; 
 }
 #div-menu > input + label > span:nth-child(2) {
-    top: 50%; 
+    top: 47%; 
 }
 #div-menu > input + label > span:last-child {
     bottom: 0rem;
