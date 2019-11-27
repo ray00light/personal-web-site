@@ -43,10 +43,10 @@ header{
     top: 0; 
 }
 #div-menu > input + label > span:nth-child(2) {
-    top: 0.6rem; 
+    top: 50%; 
 }
 #div-menu > input + label > span:last-child {
-    top: 1.2rem; 
+    bottom: 0rem;; 
 }      
     
 #div-menu > label:hover {
