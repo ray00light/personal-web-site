@@ -259,7 +259,7 @@ header{
         height: 12vh;
     }
     #div-menu > input ~ nav > ul > li > a {
-        padding: 2vh 0vh;
+        /*padding: 2vh 0vh;*/
         font-size: 5vh;
     }
     #btn-menu {
