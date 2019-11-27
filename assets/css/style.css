@@ -109,7 +109,8 @@ header{
     text-align: -moz-right;
     opacity: 1;
     height: 10vw;
-    /*transition-delay: .5s;*/
+    transition: .5s;
+    transition-delay: 0s;
 }
 #div-menu > input{
     display: none;
