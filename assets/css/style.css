@@ -85,8 +85,6 @@ header{
     /*margin: 0;*/
 }
 #div-menu > input ~ nav > ul > li {
-    display: contents;
-    text-align: -moz-right;
     opacity: 0;
     height: 0vw;
     transition: .5s;
@@ -105,6 +103,8 @@ header{
 }
 #div-menu > input:checked ~ nav > ul {}
 #div-menu > input:checked ~ nav > ul > li {
+    display: contents;
+    text-align: -moz-right;
     opacity: 1;
     height: 10vw;
     /*transition-delay: .5s;*/
