@@ -64,6 +64,9 @@ header{
 #div-menu > input:checked + label > span {
     opacity: 0;
     top: 50%;
+    left: 20%;
+    width: 60%;
+    
 }
 #div-menu > input:checked + label > span:first-child {
     opacity: 1;
