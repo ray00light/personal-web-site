@@ -27,7 +27,6 @@ header{
     z-index: 5;
     margin: 0;
     width: max-content;
-    background-color: #f4cf0859;
     padding: 0vh 2vh 0vh 2vh;
     border-radius: 50px;
 }
@@ -55,10 +54,13 @@ header{
 #div-menu > label:hover {
     cursor: pointer;
 } 
+
+#div-menu > input:checked + label {
+    background-color: #f4cf0859;
+}
 #div-menu > input:checked + label > span {
     opacity: 0;
     top: 50%;
-    
 }
 #div-menu > input:checked + label > span:first-child {
     opacity: 1;
