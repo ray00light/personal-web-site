@@ -97,8 +97,8 @@ header{
 }
 
 #div-menu > input ~ nav > ul > li > a:hover{
-    color: yellow;
-    background-color: transparent;
+    color: black;
+    background-color: yellow;
     
 }
          
