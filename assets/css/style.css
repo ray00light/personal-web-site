@@ -26,6 +26,10 @@ header{
     width: 6vw;
     z-index: 5;
     margin: 0;
+    width: max-content;
+    background-color: #f4cf0859;
+    padding: 0vh 2vh 0vh 2vh;
+    border-radius: 50px;
 }
      
 #div-menu > input + label > span {
