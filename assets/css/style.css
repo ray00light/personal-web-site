@@ -24,7 +24,6 @@ header{
     right: 4vw;
     height: 6vw;
     width: 6vw;
-    /*z-index: 5;*/
     margin: 0;
     padding: 0vh 2vh 0vh 2vh;
     border-radius: 50px;
@@ -83,7 +82,6 @@ header{
     right: 4vw;
     width: 100%;
     height: 60vw;
-    /*z-index: 3;*/
     overflow: hidden;
 }
 #div-menu > input ~ nav > ul {
