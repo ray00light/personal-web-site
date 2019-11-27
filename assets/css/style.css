@@ -239,21 +239,6 @@ header{
         /*background: white;*/
         /*transition: .5s;*/
     }
-    /*#div-menu > input + label > span:first-child {*/
-    /*top: 1vh; */
-    /*}*/
-    /*#div-menu > input + label > span:second-child {*/
-    /*    top: 4vh;; */
-    /*}*/
-    /*#div-menu > input + label > span:last-child {*/
-    /*    top: 7vh; */
-    /*}*/
-    /*#div-menu > input:checked + label > span:first-child {*/
-    /*    top:4vh;*/
-    /*}*/
-    /*#div-menu > input:checked + label > span:last-child {*/
-    /*    top: 4vh;*/
-    /*}*/
     #div-menu > input ~ nav {
         top: 16vh;
         right: 4vh;
