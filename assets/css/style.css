@@ -95,6 +95,10 @@ header{
     color: white;
     font-size: 5vw;
 }
+
+#div-menu > input ~ nav > ul > li > a:hover{
+    transparent : 0;
+}
          
 #div-menu > input:checked ~ nav {
     
