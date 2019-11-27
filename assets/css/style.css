@@ -95,6 +95,9 @@ header{
     color: white;
     font-size: 5vw;
     width: max-content;
+    background-color: #f4cf0859;
+    padding: 0vh 2vh 0vh 2vh;
+    border-radius: 50px;
 }
 
 #div-menu > input ~ nav > ul > li > a:hover{
