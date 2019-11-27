@@ -280,7 +280,7 @@ header{
     }
     
     #btn-down{
-        padding-top: 5vh;
+        padding-top: 16vh;
         font-size: 5vh;
     }
     
@@ -316,7 +316,7 @@ header{
     }
     
      #btn-down{
-        padding-top: 10vw;
+        padding-top: 20vw;
         font-size: 6vw;
     }
 }
