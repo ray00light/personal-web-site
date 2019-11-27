@@ -97,7 +97,9 @@ header{
 }
 
 #div-menu > input ~ nav > ul > li > a:hover{
-    transparent : 0;
+    color: yellow;
+    background-color: transparent;
+    
 }
          
 #div-menu > input:checked ~ nav {
