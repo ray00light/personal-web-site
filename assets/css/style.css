@@ -203,8 +203,8 @@ header{
     }
     #div-menu > input + label {
         /*position: fixed;*/
-        /*top: 2vh;*/
-        /*right: 2vh;*/
+        top: 4vh;
+        right: 4vh;
         height: 8vh;
         width: 8vh;
         /*z-index: 5;*/
