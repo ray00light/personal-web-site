@@ -24,9 +24,9 @@ header{
     right: 4vw;
     height: 6vw;
     width: 6vw;
-    z-index: 5;
+    /*z-index: 5;*/
     margin: 0;
-    width: max-content;
+    /*width: max-content;*/
     padding: 0vh 2vh 0vh 2vh;
     border-radius: 50px;
 }
