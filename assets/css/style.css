@@ -246,7 +246,7 @@ header{
         /*height: 30vh;*/
     }
     #div-menu > input:checked ~ nav > ul > li {
-    height: 7vh;
+        height: 12vh;
     }
     #div-menu > input ~ nav > ul > li > a {
         padding: 2vh 0vh;
