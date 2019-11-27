@@ -94,6 +94,7 @@ header{
     padding: 2vw 0vw;
     color: white;
     font-size: 5vw;
+    width: max-content;
 }
 
 #div-menu > input ~ nav > ul > li > a:hover{
