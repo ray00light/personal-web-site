@@ -101,7 +101,7 @@ header{
 }
          
 #div-menu > input:checked ~ nav {
-    transition-delay: 0s;
+    /*transition-delay: 0s;*/
 }
 #div-menu > input:checked ~ nav > ul {}
 #div-menu > input:checked ~ nav > ul > li {
