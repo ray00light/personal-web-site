@@ -56,6 +56,9 @@ header{
 } 
 
 #div-menu > input:checked + label {
+    background-color: #ffff0096;
+}
+#div-menu > input:checked + label:hover {
     background-color: #f4cf0859;
 }
 #div-menu > input:checked + label > span {
