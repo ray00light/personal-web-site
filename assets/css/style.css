@@ -46,7 +46,7 @@ header{
     top: 50%; 
 }
 #div-menu > input + label > span:last-child {
-    bottom: 0rem;; 
+    bottom: 0rem;
 }      
     
 #div-menu > label:hover {
