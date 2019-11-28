@@ -141,6 +141,9 @@ header{
     overflow: auto;
     padding-top: 4vw;
     padding-bottom: 4vw;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
 }
 
 .middle-line{
@@ -154,7 +157,6 @@ header{
 
 .subject-title{
     overflow: auto;
-    width:auto;
 }
 
 .subject-text{
