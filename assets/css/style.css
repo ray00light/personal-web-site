@@ -145,6 +145,10 @@ header{
     max-width: 100%;
 }
 
+.div-middle-line{
+    padding: 1vw 1vw 1vw 1vw;
+}
+
 .middle-line{
     position: relative;
     display: block;
