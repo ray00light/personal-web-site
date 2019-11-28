@@ -139,6 +139,8 @@ header{
     font-size: 3vw;
     text-align: center;
     overflow: auto;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
 }
 
 .subject-title{
