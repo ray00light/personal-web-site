@@ -172,7 +172,7 @@ header{
 }
 
 .subject-text{
-    overflow:auto;
+    padding: 0;
 }
 
 .subject-img{
