@@ -176,7 +176,8 @@ header{
 }
 
 .subject-img{
-    overflow: auto;
+    width: 100%;
+    height: auto;
 }
 
 /*************************** Secyion 1 *****************************/
