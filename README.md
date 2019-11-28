@@ -121,7 +121,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
-- I received inspiration from this website http://www.garysheng.com/
+- I received inspiration from this website http://www.garysheng.com/ (page structure)
+- I received inspiration from this website https://fabriceleven.com/ (writing text efect)
 - I did the burguer menu thanks to https://codemyui.com/hamburger-menu-full-screen-navigation-menu-pure-css/
 
 -------------------------------------------------------------------------------- 
