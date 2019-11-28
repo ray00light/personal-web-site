@@ -154,6 +154,7 @@ header{
 
 .subject-title{
     overflow: auto;
+    width:auto;
 }
 
 .subject-text{
