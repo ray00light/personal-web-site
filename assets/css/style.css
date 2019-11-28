@@ -136,6 +136,8 @@ header{
 }
 
 
+
+
 .section-title{
     font-size: 7vw;
     text-align: center;
@@ -157,6 +159,10 @@ header{
     height: 0.5vw;
     width: 100%;
     background-color:black;
+}
+
+.div-subject{
+    padding: 0;
 }
 
 .subject-title{
