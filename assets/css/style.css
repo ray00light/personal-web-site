@@ -4,6 +4,10 @@ body{
     font-family:Arimo;
 }
 
+.row {
+    margin:0;
+}
+
 /**************************** header menu *****************************/
 
 header{
