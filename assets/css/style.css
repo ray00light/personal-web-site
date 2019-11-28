@@ -137,7 +137,7 @@ header{
 
 
 .section-title{
-    font-size: 6vw;
+    font-size: 7vw;
     text-align: center;
     overflow: auto;
     padding: 4vw 1vw 4vw 1vw;
@@ -161,7 +161,7 @@ header{
 
 .subject-title{
     padding: 1vw 1vw 2vw 2vw;
-    font-size: 3vw;
+    font-size: 5vw;
     color: #03a9f4;
 }
 
