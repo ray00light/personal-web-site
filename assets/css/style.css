@@ -160,7 +160,9 @@ header{
 }
 
 .subject-title{
-    overflow: auto;
+    padding: 1vw 1vw 2vw 2vw;
+    font-size: 3vw;
+    color: #03a9f4;
 }
 
 .subject-text{
