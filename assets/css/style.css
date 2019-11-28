@@ -147,7 +147,7 @@ header{
     display:block;
     top:50%;
     height: 1vw;
-    width: auto;
+    width: 100%;
     background-color: black;
 }
 
