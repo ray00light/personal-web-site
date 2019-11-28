@@ -142,7 +142,7 @@ header{
     font-size: 7vw;
     text-align: center;
     overflow: auto;
-    padding: 4vw 1vw 4vw 1vw;
+    /*padding: 4vw 1vw 4vw 1vw;*/
     flex: 0 0 auto;
     width: auto;
     max-width: 100%;
