@@ -175,7 +175,7 @@ header{
     padding: 0;
 }
 
-.subject-img{
+.subject-img > img{
     width: 100%;
     height: auto;
 }
