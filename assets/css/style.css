@@ -146,6 +146,7 @@ header{
 .section-title > span{
     top:50%;
     height: 1vw;
+    background-color: black;
 }
 
 .subject-title{
