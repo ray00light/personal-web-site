@@ -138,6 +138,54 @@ header{
 
 
 
+
+
+/*************************** Secyion 1 *****************************/
+#section1 {
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#div-greeting{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-flow: column;
+    color: white;
+}
+
+#div-greeting>h4{
+    font-style: italic;
+}
+
+#div-greeting>h2{
+   /* font-size: 9vw;*/
+}
+
+#div-btn-down{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-flow: column;
+    color: white;
+}
+
+#btn-down{
+    color:inherit;
+}
+
+/*************************** Secyion 2 *****************************/
+
+#section2{
+    overflow: auto;
+    background-color: white;
+    margin:0;
+    padding: 4vw;
+}
+
 .section-title{
     font-size: 7vw;
     text-align: center;
@@ -181,48 +229,7 @@ header{
     padding: 10vw;
 }
 
-/*************************** Secyion 1 *****************************/
-#section1 {
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-#div-greeting{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-flow: column;
-    color: white;
-}
-
-#div-greeting>h4{
-    font-style: italic;
-}
-
-#div-greeting>h2{
-   /* font-size: 9vw;*/
-}
-
-#div-btn-down{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    flex-flow: column;
-    color: white;
-}
-
-#btn-down{
-    color:inherit;
-}
-
-#section2{
-    overflow: auto;
-    background-color: white;
-    margin:0;
-}
+/*************************** Secyion 3 *****************************/
 
 #section3{
     height: 100vh;
