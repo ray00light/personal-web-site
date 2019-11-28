@@ -143,6 +143,11 @@ header{
     padding-bottom: 4vw;
 }
 
+.section-title > span{
+    top:50%;
+    height: 1vw;
+}
+
 .subject-title{
     overflow: auto;
 }
