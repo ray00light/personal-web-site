@@ -144,11 +144,12 @@ header{
 }
 
 .middle-line{
-    display:block;
-    top:50%;
-    height: 1vw;
+    position: relative;
+    display: block;
+    top: 50%;
+    height: 0.5vw;
     width: 100%;
-    background-color: black;
+    background-color:black;
 }
 
 .subject-title{
