@@ -133,6 +133,19 @@ header{
 
 .section-title{
     text-align: center;
+    overflow: auto;
+}
+
+.subject-title{
+    overflow: auto;
+}
+
+.subject-text{
+    overflow:auto;
+}
+
+.subject-img{
+    overflow: auto;
 }
 
 /*************************** Secyion 1 *****************************/
