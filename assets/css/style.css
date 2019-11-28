@@ -136,6 +136,7 @@ header{
 
 
 .section-title{
+    font-size: 3vw;
     text-align: center;
     overflow: auto;
 }
