@@ -178,6 +178,7 @@ header{
 .subject-img > img{
     width: 100%;
     height: auto;
+    padding: 10vw;
 }
 
 /*************************** Secyion 1 *****************************/
