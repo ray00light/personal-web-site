@@ -131,6 +131,10 @@ header{
 }
 
 
+.section-title{
+    text-align: center;
+}
+
 /*************************** Secyion 1 *****************************/
 #section1 {
     height: 100vh;
