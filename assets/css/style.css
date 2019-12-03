@@ -234,6 +234,8 @@ header{
 #section3{
     overflow: auto;
     background-color: rgb(240, 240, 240);
+    margin: 0;
+    padding: 4vw;
 }
 
 /*************************** Secyion 4 *****************************/
@@ -241,6 +243,8 @@ header{
 #section4{
     overflow: auto;
     background-color: white;
+    margin: 0;
+    padding: 4vw;
 }
 
 /*************************** Secyion 5 *****************************/
@@ -248,6 +252,8 @@ header{
 #section5{
     overflow: auto;
     background-color: rgb(240, 240, 240);
+    margin: 0;
+    padding: 4vw;
 }
 
 #footer1{
