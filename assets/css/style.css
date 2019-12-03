@@ -232,17 +232,21 @@ header{
 /*************************** Secyion 3 *****************************/
 
 #section3{
-    height: 100vh;
+    overflow: auto;
     background-color: rgb(240, 240, 240);
 }
 
+/*************************** Secyion 4 *****************************/
+
 #section4{
-    height: 100vh;
+    overflow: auto;
     background-color: white;
 }
 
+/*************************** Secyion 5 *****************************/
+
 #section5{
-    height: 100vh;
+    overflow: auto;
     background-color: rgb(240, 240, 240);
 }
 
