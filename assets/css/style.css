@@ -282,11 +282,7 @@ header{
 {
     #div-menu {
         /*display: block;*/
-        /*top: 0vh;*/
-        /*right: 0vh;*/
-        /*text-align: right;*/
-        /*height: 35vh;*/
-        /*width: 35vh;*/
+        
     }
     #div-menu > input + label {
         /*position: fixed;*/
