@@ -251,7 +251,8 @@ header{
   animation: circle-chart-fill 2s reverse;
   transform: rotate(-90deg);
   transform-origin: center;
-  viewport: 0 0 33.83098862 33.83098862;
+  width= 10vw;
+  height: 10vw;
 }
 
 
