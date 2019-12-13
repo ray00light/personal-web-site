@@ -251,16 +251,14 @@ header{
     padding: 2vw;
 }
 
+.circle-chart-background {
+    
+}
+
 .circle-chart-circle {
     animation: circle-chart-fill 2s reverse;
     transform: rotate(-90deg);
     transform-origin: center;
-    width: 10vw;
-    height: 10vw;
-}
-
-.circle-chart-background {
-    
 }
 
 .circle-chart-text{
