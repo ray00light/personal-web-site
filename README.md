@@ -124,6 +124,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration from this website http://www.garysheng.com/ (page structure)
 - I received inspiration from this website https://fabriceleven.com/ (writing text efect)
 - I did the burguer menu thanks to https://codemyui.com/hamburger-menu-full-screen-navigation-menu-pure-css/
+- I did the percentage cercles of the skills thanks to https://markus.oberlehner.net/blog/pure-css-animated-svg-circle-chart/
 
 -------------------------------------------------------------------------------- 
 - I received inspiration for this project from X
