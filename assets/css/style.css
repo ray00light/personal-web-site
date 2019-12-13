@@ -395,6 +395,20 @@ header{
         
     }
     
+    
+    #section3{
+        
+    }
+    
+    #section4{
+       
+    }
+    
+    .circle-chart-text{
+        font-size: 2vh;
+        stroke-width: 0.1vh;
+    }
+    
 }
 @media screen and (orientation: portrait)
 {
