@@ -279,7 +279,6 @@ header{
     x: 50%;
     y: 55%;
     text-anchor: middle;
-    dy: .3erm;
     stroke: #03a9f4;
     stroke-width: 0.04vw;
 }
