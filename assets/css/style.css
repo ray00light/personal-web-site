@@ -251,7 +251,7 @@ header{
     padding: 2vw;
 }
 
-.circle-chart__circle {
+.circle-chart-circle {
     animation: circle-chart-fill 2s reverse;
     transform: rotate(-90deg);
     transform-origin: center;
