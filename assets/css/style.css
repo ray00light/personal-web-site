@@ -271,6 +271,7 @@ header{
     animation: circle-chart-fill 2s reverse;
     transform: rotate(-90deg);
     transform-origin: center;
+    stroke: #03a9f4;
 }
 
 .circle-chart-text{
