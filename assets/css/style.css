@@ -276,11 +276,13 @@ header{
 .circle-chart-text{
     font-family: arimo;
     font-size: 0.5vw;
-    x: 50%;
-    y: 55%;
+    fill: #03a9f4;
+    /*x: 50%;*/
+    /*y: 55%;*/
     text-anchor: middle;
     stroke: #03a9f4;
     stroke-width: 0.04vw;
+    alignment-baseline: central;
 }
 
 
