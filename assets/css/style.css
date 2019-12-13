@@ -247,6 +247,16 @@ header{
     padding: 4vw;
 }
 
+.circle-chart__circle {
+  animation: circle-chart-fill 2s reverse;
+  transform: rotate(-90deg);
+  transform-origin: center;
+}
+
+@keyframes circle-chart-fill {
+  to { stroke-dasharray: 0 100; }
+}
+
 /*************************** Secyion 5 *****************************/
 
 #section5{
