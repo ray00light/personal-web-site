@@ -265,6 +265,12 @@ header{
     stroke: rgb(240, 240, 240);
 }
 
+.div-circle:hover > .circle-chart-circle {
+    
+    animation-play-state:running;
+    
+}
+
 .circle-chart-circle {
     animation: circle-chart-fill 2s reverse;
     transform: rotate(-90deg);
@@ -273,15 +279,16 @@ header{
     stroke-linecap: round;
 }
 
+
 .circle-chart-text{
     font-family: arimo;
-    font-size: 2vw;
+    font-size: 30%;
     fill: #03a9f4;
     /*x: 50%;*/
     /*y: 55%;*/
     text-anchor: middle;
     stroke: #03a9f4;
-    stroke-width: 0.1vw;
+    stroke-width: 1%;
 }
 
 
@@ -404,8 +411,8 @@ header{
     }
     
     .circle-chart-text{
-        font-size: 1.5vh;
-        stroke-width: 0.08vh;
+        /*font-size: 1.5vh;*/
+        /*stroke-width: 0.08vh;*/
     }
     
 }
