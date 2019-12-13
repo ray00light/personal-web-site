@@ -269,7 +269,7 @@ header{
     transform: rotate(-90deg);
     transform-origin: center;
     stroke: #03a9f4;
-    stroke-dasharray: 25,100; 
+    stroke-dasharray: 50,100; 
     stroke-linecap: round;
 }
 
