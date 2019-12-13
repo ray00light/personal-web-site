@@ -265,11 +265,7 @@ header{
     stroke: rgb(240, 240, 240);
 }
 
-.div-circle:hover > .circle-chart-circle {
-    
-    animation-play-state:running;
-    
-}
+
 
 .circle-chart-circle {
     animation: circle-chart-fill 2s reverse;
@@ -277,6 +273,13 @@ header{
     transform-origin: center;
     stroke: #03a9f4;
     stroke-linecap: round;
+}
+
+.div-circle:hover .circle-chart-circle{
+    animation: circle-chart-fill 2s reverse;
+    transform: rotate(-90deg);
+    transform-origin: center;
+    animation-iteration-count: infinite;
 }
 
 
