@@ -404,8 +404,8 @@ header{
     }
     
     .circle-chart-text{
-        font-size: 2vh;
-        stroke-width: 0.1vh;
+        font-size: 0.5vh;
+        stroke-width: 0.08vh;
     }
     
 }
