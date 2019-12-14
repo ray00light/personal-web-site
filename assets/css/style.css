@@ -326,6 +326,11 @@ header{
     border-radius: 0;
 }
 
+.form-control:hover{
+    color: #0056b3;
+    background-color:  #0056b3;
+}
+
 .form-control::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #03a9f4;
 }
