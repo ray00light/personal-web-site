@@ -358,7 +358,7 @@ header{
     border-color: #0056b3;
 }
 
-.form-control:hover .form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+.form-control:hover:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
    color:    #03a9f4;
    opacity:  1;
 }
