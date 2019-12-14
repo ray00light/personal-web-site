@@ -309,7 +309,8 @@ header{
 }
 
 .form-control{
-    
+    background-color:rgb(240, 240, 240);
+    border-color: #03a9f4;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
