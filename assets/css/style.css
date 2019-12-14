@@ -255,7 +255,7 @@ header{
 }
 
 .div-circle{
-    padding: 2vw;
+    padding: 3vw;
 }
 
 .circle-chart{
@@ -311,7 +311,7 @@ header{
   to { stroke-dasharray: 0 100; }
 }
 
-/*************************** Secyion 5 *****************************/
+/*************************** Section 5 *****************************/
 
 #section5{
     overflow: auto;
@@ -386,10 +386,12 @@ header{
 .div-social-media > a {
     font-size: 5vw;
     padding: 1vw;
+    color: #03a9f4;;
 }
 
 .div-social-media > a:hover{
     text-decoration: none;
+    color: #0056b3;
 }
 
 @-webkit-keyframes bounce {
