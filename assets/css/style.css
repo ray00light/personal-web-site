@@ -359,22 +359,22 @@ header{
 }
 
 .form-control:hover:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-   color:    #03a9f4;
+   color:    #0056b3;
    opacity:  1;
 }
 .form-control:hover::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #03a9f4;
+   color:    #0056b3;
    opacity:  1;
 }
 .form-control:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color:    #03a9f4;
+   color:    #0056b3;
 }
 .form-control:hover::-ms-input-placeholder { /* Microsoft Edge */
-   color:    #03a9f4;
+   color:    #0056b3;
 }
 
 .form-control:hover::placeholder { /* Most modern browsers support this now. */
-   color:    #03a9f4;
+   color:    #0056b3;
 }
 
 .btn-primary{
