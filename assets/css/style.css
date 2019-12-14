@@ -354,7 +354,7 @@ header{
    color:    #03a9f4;
 }
 
-.form-control:hover .form-control::-webkit-input-placeholder{
+.form-control:hover::-webkit-input-placeholder{
     border-color: #0056b3;
 }
 
