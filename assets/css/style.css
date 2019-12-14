@@ -548,6 +548,12 @@ header{
        
     }
     
+    .div-circle{
+        padding: 6vh;
+        height: 40vh;
+        width: 10vh;
+    }
+    
     .circle-chart-text{
         /*font-size: 1.5vh;*/
         /*stroke-width: 0.08vh;*/
