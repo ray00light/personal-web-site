@@ -572,6 +572,14 @@ header{
         font-size: 6vh;
     }
     
+    .div-form-btn {
+        padding-top: 8vh;
+    }
+    
+    .btn-primary {
+        font-size: 5vh;
+    }
+    
 }
 @media screen and (orientation: portrait)
 {
