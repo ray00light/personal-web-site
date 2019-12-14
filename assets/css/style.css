@@ -330,50 +330,36 @@ header{
     border-color: #0056b3;
 }
 
-
-
 .form-control::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #03a9f4;
 }
-.form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+
+.form-control::-moz-placeholder { /* Mozilla Firefox */
    color:    #03a9f4;
    opacity:  1;
 }
-.form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #03a9f4;
-   opacity:  1;
-}
-.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color:    #03a9f4;
-}
-.form-control::-ms-input-placeholder { /* Microsoft Edge */
+
+.form-control:-ms-input-placeholder { /* Microsoft Browser */
    color:    #03a9f4;
 }
 
-.form-control::placeholder { /* Most modern browsers support this now. */
+.form-control::placeholder { /* Most modern browser. */
    color:    #03a9f4;
 }
 
-.form-control:hover::-webkit-input-placeholder{
+.form-control:hover::-webkit-input-placeholder{ /* WebKit, Blink, Edge */
     border-color: #0056b3;
 }
 
-.form-control:hover:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+.form-control:hover:-moz-placeholder { /* Mozilla Firefox*/
    color:    #0056b3;
    opacity:  1;
 }
-.form-control:hover::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #0056b3;
-   opacity:  1;
-}
-.form-control:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color:    #0056b3;
-}
-.form-control:hover::-ms-input-placeholder { /* Microsoft Edge */
+.form-control:hover:-ms-input-placeholder { /* Microsoft Browser */
    color:    #0056b3;
 }
 
-.form-control:hover::placeholder { /* Most modern browsers support this now. */
+.form-control:hover::placeholder { /* Most modern browsers. */
    color:    #0056b3;
 }
 
