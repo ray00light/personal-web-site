@@ -191,7 +191,7 @@ header{
     overflow: auto;
     background-color: white;
     margin:0;
-    padding: 4vw;
+    padding: 5vw;
 }
 
 .section-title{
@@ -248,7 +248,7 @@ header{
     overflow: auto;
     background-color: rgb(240, 240, 240);
     margin: 0;
-    padding: 4vw;
+    padding: 5vw;
 }
 
 /*************************** Secyion 4 *****************************/
@@ -257,7 +257,7 @@ header{
     overflow: auto;
     background-color: white;
     margin: 0;
-    padding: 4vw;
+    padding: 5vw;
 }
 
 .row-circles{
@@ -329,7 +329,7 @@ header{
     overflow: auto;
     background-color: rgb(240, 240, 240);
     margin: 0;
-    padding: 4vw;
+    padding: 5vw;
 }
 
 .contact-form{
