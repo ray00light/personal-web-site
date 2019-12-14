@@ -375,6 +375,10 @@ header{
    color:    #0056b3;
 }
 
+.div-form-btn{
+    padding-top: 2vw;
+}
+
 .btn-primary{
   width:100%;
   border-radius: 0;
