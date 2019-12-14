@@ -361,6 +361,10 @@ header{
     padding: 1vh;
 }
 
+.div-social-media > a {
+    font-size: 2vw;
+}
+
 @-webkit-keyframes bounce {
      0%,100%{
          padding-top:0; 
