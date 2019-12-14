@@ -362,18 +362,18 @@ header{
    color:    #03a9f4;
    opacity:  1;
 }
-.form-control:hover .form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
+.form-control:hover::-moz-placeholder { /* Mozilla Firefox 19+ */
    color:    #03a9f4;
    opacity:  1;
 }
-.form-control:hover .form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+.form-control:hover:-ms-input-placeholder { /* Internet Explorer 10-11 */
    color:    #03a9f4;
 }
-.form-control:hover .form-control::-ms-input-placeholder { /* Microsoft Edge */
+.form-control:hover::-ms-input-placeholder { /* Microsoft Edge */
    color:    #03a9f4;
 }
 
-.form-control:hover .form-control::placeholder { /* Most modern browsers support this now. */
+.form-control:hover::placeholder { /* Most modern browsers support this now. */
    color:    #03a9f4;
 }
 
