@@ -559,6 +559,19 @@ header{
         /*stroke-width: 0.08vh;*/
     }
     
+    #section5{
+        
+    }
+    
+    .contact-form{
+        padding-top: 8vh;
+        padding-bottom: 8vh;
+    }
+    
+    .form-control{
+        font-size: 6vh;
+    }
+    
 }
 @media screen and (orientation: portrait)
 {
