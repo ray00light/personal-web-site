@@ -82,7 +82,7 @@ header{
 }
 
 #div-menu > input:checked ~ nav {
-    display: block;
+    display: flex;
 }
 
 #div-menu > input ~ nav {
