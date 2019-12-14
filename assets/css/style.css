@@ -429,8 +429,8 @@ header{
         /*position: fixed;*/
         top: 4vh;
         right: 4vh;
-        height: 8vh;
-        width: 8vh;
+        height: 6vh;
+        width: 6vh;
         /*z-index: 5;*/
     }
     #div-menu > input + label > span {
