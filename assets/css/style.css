@@ -239,7 +239,7 @@ header{
 .subject-img > img{
     width: 80vw;
     height: auto;
-    padding: 10vw;
+    padding: 6vw;
 }
 
 /*************************** Secyion 3 *****************************/
@@ -534,7 +534,7 @@ header{
     .subject-img > img {
         width: 80vh;
         height: auto;
-        padding: 10vh;
+        padding: 6vh;
     }
     
     
