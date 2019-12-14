@@ -237,7 +237,7 @@ header{
 }
 
 .subject-img > img{
-    width: 100%;
+    width: 80vw;
     height: auto;
     padding: 10vw;
 }
