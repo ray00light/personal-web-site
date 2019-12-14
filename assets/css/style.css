@@ -265,7 +265,9 @@ header{
 }
 
 .div-circle{
-    padding: 3vw;
+    padding: 6vw;
+    height: 40vw;
+    width: 10vw;
 }
 
 .circle-chart{
