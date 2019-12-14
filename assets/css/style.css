@@ -358,12 +358,13 @@ header{
 .div-social-media{
     margin:auto;
     width: 100%;
-    padding: 1vh;
+    padding: 1vw;
+    text-align: center;
 }
 
 .div-social-media > a {
     font-size: 5vw;
-    text-align: center;
+    padding: 1vw;
 }
 
 @-webkit-keyframes bounce {
