@@ -355,6 +355,11 @@ header{
     background-color: white;
 }
 
+.div-social-media{
+    margin:auto;
+    width: 100%;
+    padding: 1vh;
+}
 
 @-webkit-keyframes bounce {
      0%,100%{
