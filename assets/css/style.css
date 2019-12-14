@@ -129,7 +129,9 @@ header{
 #div-menu > input:checked ~ nav {
     
 }
+
 #div-menu > input:checked ~ nav > ul {}
+
 #div-menu > input:checked ~ nav > ul > li {
     text-align: -moz-right;
     opacity: 1;
@@ -388,12 +390,12 @@ header{
 .div-social-media{
     margin:auto;
     width: 100%;
-    padding: 8vw;
+    padding: 5vw;
     text-align: center;
 }
 
 .div-social-media > a {
-    font-size: 5vw;
+    font-size: 6vw;
     padding: 1vw;
     color: #03a9f4;;
 }
