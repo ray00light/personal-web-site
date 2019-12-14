@@ -580,6 +580,15 @@ header{
         font-size: 5vh;
     }
     
+    .div-social-media {
+        padding: 5vh;
+    }
+    
+    .div-social-media > a {
+        font-size: 6vh;
+        padding: 1vh;
+    }
+    
 }
 @media screen and (orientation: portrait)
 {
