@@ -363,6 +363,7 @@ header{
 
 .div-social-media > a {
     font-size: 2vw;
+    text-align: center;
 }
 
 @-webkit-keyframes bounce {
