@@ -532,7 +532,9 @@ header{
     }
     
     .subject-img > img {
-        
+        width: 80vh;
+        height: auto;
+        padding: 10vh;
     }
     
     
