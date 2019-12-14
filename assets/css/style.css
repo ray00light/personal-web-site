@@ -324,6 +324,11 @@ header{
     padding: 4vw;
 }
 
+.contact-form{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
 .form-control{
     background-color:rgb(240, 240, 240);
     border-color: #03a9f4;
