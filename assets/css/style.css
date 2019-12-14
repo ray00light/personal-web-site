@@ -232,6 +232,10 @@ header{
     font-size: 4vw;
 }
 
+.subject-img{
+    text-align: centre;
+}
+
 .subject-img > img{
     width: 100%;
     height: auto;
@@ -521,6 +525,14 @@ header{
     
     .subject-text{
         font-size: 4vh;
+    }
+    
+    .subject-img {
+        
+    }
+    
+    .subject-img > img {
+        
     }
     
     
