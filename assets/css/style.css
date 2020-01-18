@@ -149,6 +149,8 @@ header{
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
+    z-index: -1;
 }
 
 #div-greeting{
@@ -188,6 +190,8 @@ header{
     background-color: white;
     margin:0;
     padding: 5vw;
+    position: relative;
+    z-index: -1;
 }
 
 .section-title{
@@ -245,6 +249,8 @@ header{
     background-color: rgb(240, 240, 240);
     margin: 0;
     padding: 5vw;
+    position: relative;
+    z-index: -1;
 }
 
 /*************************** Secyion 4 *****************************/
@@ -254,6 +260,8 @@ header{
     background-color: white;
     margin: 0;
     padding: 5vw;
+    position: relative;
+    z-index: -1;
 }
 
 .row-circles{
@@ -326,6 +334,8 @@ header{
     background-color: rgb(240, 240, 240);
     margin: 0;
     padding: 5vw;
+    position: relative;
+    z-index: -1;
 }
 
 .contact-form{
@@ -393,6 +403,8 @@ header{
 #footer1{
     overflow: auto;
     background-color: white;
+    position: relative;
+    z-index: -1;
 }
 
 .div-social-media{
