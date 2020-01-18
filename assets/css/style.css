@@ -22,7 +22,7 @@ header{
 }
 
 #div-menu > input + label {
-    position: absolute;
+    position: relative;
     top: 4vw;
     right: 4vw;
     height: 6vw;
