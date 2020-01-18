@@ -20,6 +20,7 @@ body{
 
 #div-menu{
     overflow: auto;
+    padding: 2vh 2vh 2vh 2vh;
 }
 
 #div-menu > input + label {
