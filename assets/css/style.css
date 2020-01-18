@@ -11,7 +11,7 @@ body{
 
 /**************************** header menu *****************************/
 
-body > header> #container-fluid{
+body > header> .container-fluid{
     /*height: 90vw;*/
     padding: 0;
     margin: 0;
