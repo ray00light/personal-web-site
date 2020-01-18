@@ -9,12 +9,16 @@ body{
     padding: 0;
 }
 
-/**************************** header menu *****************************/
-
 .container-fluid{
-    /*height: 90vw;*/
     padding: 0;
     margin: 0;
+}
+
+/**************************** header menu *****************************/
+
+#nav-header{
+    
+    
 }
 
 #div-menu{
