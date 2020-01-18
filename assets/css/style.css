@@ -138,6 +138,7 @@ body{
     height: 10vw;
     transition: .5s;
     transition-delay: 0s;
+    padding: 2vw 0vw 2vw 0vw;
 }
 #div-menu > input{
     display: none;
