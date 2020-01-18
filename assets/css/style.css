@@ -11,7 +11,7 @@ body{
 
 /**************************** header menu *****************************/
 
-header .container-fluid{
+#nav-header{
     /*height: 90vw;*/
     padding: 0;
     margin: 0;
