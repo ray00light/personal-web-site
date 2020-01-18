@@ -454,11 +454,9 @@ body{
         
     }
     #div-menu > input + label {
-        /*position: fixed;*/
         height: 6vh;
         width: 6vh;
         left: 96%;
-        /*z-index: 5;*/
     }
     #div-menu > input + label > span {
         /*position: absolute;*/
