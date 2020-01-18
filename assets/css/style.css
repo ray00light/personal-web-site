@@ -85,7 +85,7 @@ body{
 }
 
 #div-menu > input ~ nav {
-    position: fixed;
+    position: relative;
     margin: 0;
     top: 12vw;
     right: 4vw;
