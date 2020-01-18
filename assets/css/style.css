@@ -450,7 +450,7 @@ body{
 @media screen and (orientation: landscape)
 {
     #div-menu {
-        /*display: block;*/
+        padding: 2vw 2vw 2vw 2vw;
         
     }
     #div-menu > input + label {
