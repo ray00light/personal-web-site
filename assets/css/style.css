@@ -472,8 +472,8 @@ body{
         /*transition: .5s;*/
     }
     #div-menu > input ~ nav {
-        top: 16vh;
-        right: 4vh;
+        top: 0vh;
+        right: 0vh;
         /*width: 30vh;*/
         /*height: 30vh;*/
     }
