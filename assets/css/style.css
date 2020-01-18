@@ -127,7 +127,10 @@ body{
     
 }
 
-#div-menu > input:checked ~ nav > ul {}
+#div-menu > input:checked ~ nav > ul {
+    padding: 0;
+    margin: 0;
+}
 
 #div-menu > input:checked ~ nav > ul > li {
     text-align: -moz-right;
